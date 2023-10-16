@@ -2,7 +2,7 @@
 
 Hello! My name is Miguel but you probably know me as Mr. C.
 
-This is the place where you will download any files to use when practicing these coding excersises.
+This is the place where you will download any files to use when practicing these coding exercises.
 
 You can find the neccesary resources below:
 
