@@ -4,6 +4,10 @@ Hello! My name is Miguel but you probably know me as Mr. C
 
 Here you will find all the resources you will need to have fun and to learn web programming and coding.
 
+You will come to this website which gives access to what is called a github repository.
+
+Here you will download the coding club excersises.
+
 # Quicklinks
 
 - Mr. Cachero's Github [kuuueee](https://github.com/kuuueee)
