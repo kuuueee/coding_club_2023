@@ -1,6 +1,10 @@
 # Annunciation Coding Club 2023
 
-Hello! My name is Miguel but you probably know me as Mr. C. Here you will find all the resources you will need to have fun and to learn web programming and coding. You will come to this website which gives access to what is called a github repository. This is where you can download the coding club excersises.
+Hello! My name is Miguel but you probably know me as Mr. C.
+
+This is the place where you will download any files to use when practicing these coding excersises.
+
+You can find the neccesary resources below:
 
 # Quicklinks
 
