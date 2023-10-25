@@ -8,7 +8,7 @@ You can find the neccesary resources below:
 
 # Quicklinks
 
-- Mr. Cachero's Github [kuuueee](https://github.com/kuuueee)
+- Mr. C's Github [kuuueee](https://github.com/kuuueee)
   
 - Phoenix Code Editor [phcode.dev](https://phcode.dev/)
 
